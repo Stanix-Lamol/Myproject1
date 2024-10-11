@@ -24,3 +24,14 @@ Proyecto de IA para la Gestión de Movimientos de Usuarios en la Delegación Ter
     • Selección de Departamentos: Escoger unos pocos departamentos para una implementación inicial.
     • Despliegue Inicial: Implementar el sistema en los departamentos seleccionados.
     • Recopilación de Feedback: Recoger comentarios y sugerencias para realizar ajustes.
+   6. Evaluación y Mejora
+    • Monitoreo de Resultados: Utilizar métricas de rendimiento para evaluar el impacto del nuevo sistema.
+    • Ajustes y Mejoras: Hacer ajustes según el feedback recibido.
+    • Escalado: Planificar la implementación en otros departamentos.
+7. Documentación y Reporte
+    • Informe Final: Documentar todo el proceso, resultados y aprendizajes.
+    • Presentación: Preparar una presentación para compartir los resultados con las partes interesadas.
+Recursos Adicionales:
+    • Colaboración con Expertos: Trabajar con expertos en IA y gestión de proyectos.
+    • Funding y Grants: Buscar fuentes de financiación y subvenciones para apoyar el proyecto.
+   
