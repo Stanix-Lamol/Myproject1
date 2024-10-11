@@ -1,5 +1,5 @@
 # Myproject1
-Proyecto para curso AI
+Proyecto de curso de creación de IA
 Proyecto de IA para la Gestión de Movimientos de Usuarios en la Delegación Territorial de la administración autonómica en  Granada
 1. Definición del Proyecto
     • Título: Implementación de un Sistema de IA para la Gestión de Movimientos de Usuarios en la D.T. 
