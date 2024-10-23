@@ -1,4 +1,4 @@
-# Myproject1
+## Myproject1
 
 Proyecto de curso de creación de IA
 
@@ -12,12 +12,12 @@ Creado por Estanislao Lamolda de Granada
     • Objetivo: Automatizar y organizar el proceso de alta, baja y cambio de usuarios para mejorar la eficiencia y reducir errores.
                 Debe estar vinculado a la alta en el Directorio Activo.
           
- 3. Revisión de Necesidades
+ 3. Revisión de Necesidades y Feedback 
     • Entrevistas y Encuestas: Recoger información sobre los desafíos actuales y las necesidades específicas de los usuarios.
     • Análisis de Datos: Revisar los datos históricos sobre movimientos de usuarios para identificar patrones y áreas de mejora.
     
  4. Diseño del Sistema
-    • Automatización de Procesos:
+    • Automatización de Procesos principales:
         ◦ Altas: Crear un sistema automático que genere un checklist para el seguimiento y control  y tareas para la alta de nuevos usuarios.
          Las altas deben incluir alta en el Directorio Activo y en las aplicaciones que se utilizan en la Delegación.
         ◦ Bajas: Implementar un protocolo automático para la deshabilitación y posterior desactivación de cuentas y la recogoda de equipos y material complementario.
@@ -27,14 +27,14 @@ Creado por Estanislao Lamolda de Granada
     
 4 Desarrollo Tecnológico
     • IA y Machine Learning:
-        ◦ Chatbot de Soporte: Implementar un chatbot que guíe a los usuarios en determinados  procesos.
+        ◦ Chatbot de Soporte: Implementar un chatbot que guíe a los usuarios en determinados procesos que son repetivos.
         ◦ Automatización de Tareas: Utilizar IA para asignar automáticamente tareas y notificaciones basadas en las entradas y salidas de usuarios.
         ◦ Predicción de Necesidades: Utilizar algoritmos de machine learning para predecir necesidades futuras y optimizar la gestión de recursos.
-    • Integración con Sistemas Existentes: Asegurar la compatibilidad del nuevo sistema con las plataformas y herramientas existentes.
+    • Integración con Sistemas Existentes: Asegurar la compatibilidad del nuevo sistema de IA con las plataformas y herramientas existentes.
    
 5. Implementación Piloto
     • Selección de un  Departamento: Escoger un departamento para una implementación inicial.
-    • Despliegue Inicial: Implementar el sistema en el departamento seleccionado.
+    • Despliegue Inicial: Implementar el sistema en el departamento seleccionado y con determinados usuarios.
     • Recopilación de Feedback: Recoger comentarios y sugerencias para realizar ajustes.
 6. Evaluación y Mejora
     • Monitoreo de Resultados: Utilizar métricas de rendimiento para evaluar el impacto del nuevo sistema.
