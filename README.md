@@ -10,15 +10,18 @@ Creado por Estanislao Lamolda de Granada
 1. Definición del Proyecto
     • Título: Implementación de un Sistema de IA para la Gestión de Movimientos de Usuarios en la D.T. 
     • Objetivo: Automatizar y organizar el proceso de alta, baja y cambio de usuarios para mejorar la eficiencia y reducir errores.
-   
- 2. Revisión de Necesidades
+                Debe estar vinculado a la alta en el Directorio Activo.
+          
+ 3. Revisión de Necesidades
     • Entrevistas y Encuestas: Recoger información sobre los desafíos actuales y las necesidades específicas de los usuarios.
     • Análisis de Datos: Revisar los datos históricos sobre movimientos de usuarios para identificar patrones y áreas de mejora.
     
- 3. Diseño del Sistema
+ 4. Diseño del Sistema
     • Automatización de Procesos:
         ◦ Altas: Crear un sistema automático que genere un checklist para el seguimiento y control  y tareas para la alta de nuevos usuarios.
+         Las altas deben incluir alta en el Directorio Activo y en las aplicaciones que se utilizan en la Delegación.
         ◦ Bajas: Implementar un protocolo automático para la deshabilitación y posterior desactivación de cuentas y la recogoda de equipos y material complementario.
+        Las bajas deben inhabilitar el usuario en el Directorio Activo y en los programas que estuviera dado de alta.
         ◦ Cambios Internos: Facilitar el proceso de cambio de puestos con notificaciones automáticas y actualización de datos.
     • Personalización: Adaptar el sistema a las necesidades específicas de cada departamento.
     
